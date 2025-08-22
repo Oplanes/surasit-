@@ -18,3 +18,4 @@ print('คุณเกิดปี ' + year_born + ' ตอนนี้คูณ
 print('------------------')
 #ใช้ format()
 print('Hello {} คุณเกิดปี {} ตอนนี้คูณอายุ {} ปี'.format(fullname, year_born, 2568 - int(year_born)))
+print('------------------')
